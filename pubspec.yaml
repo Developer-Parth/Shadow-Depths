@@ -22,7 +22,7 @@ dependencies:
 
 dev_dependencies:
   test: any
-  flutter_lints: ^5.0.0
+  flutter_lints: ^4.0.0
 
 #  flutter_launcher_icons: "^0.7.3"
 #
