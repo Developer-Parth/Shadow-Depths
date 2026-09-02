@@ -729,10 +729,10 @@ packages:
     dependency: "direct main"
     description:
       name: win32
-      sha256: "154360849a56b7b67331c21f09a386562d88903f90a1099c5987afc1912e1f29"
+      sha256: "68d1e89a91ed61ad9c370f9f8b6effed9ae5e0ede22a270bdfa6daf79fc2290a"
       url: "https://pub.dev"
     source: hosted
-    version: "5.10.0"
+    version: "5.5.4"
   xdg_directories:
     dependency: transitive
     description:
