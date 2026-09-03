@@ -173,35 +173,6 @@ class _MenuState extends State<Menu> {
                   ],
                 ),
               ),
-              Flexible(
-                child: Row(
-                  mainAxisSize: MainAxisSize.min,
-                  children: <Widget>[
-                    Text(
-                      getString('built_with'),
-                      style: TextStyle(
-                          color: Colors.white,
-                          fontFamily: 'Normal',
-                          fontSize: 12.0),
-                    ),
-                    InkWell(
-                      onTap: () {
-                        _launchURL(
-                            'https://github.com/RafaelBarbosatec/bonfire');
-                      },
-                      child: Text(
-                        'Bonfire',
-                        style: TextStyle(
-                          decoration: TextDecoration.underline,
-                          color: Colors.blue,
-                          fontFamily: 'Normal',
-                          fontSize: 12.0,
-                        ),
-                      ),
-                    )
-                  ],
-                ),
-              ),
             ],
           ),
         ),
