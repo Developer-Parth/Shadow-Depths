@@ -2,6 +2,8 @@
 
 ![Flutter](https://img.shields.io/badge/Made%20with-Flutter-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)
+![Platforms](https://img.shields.io/badge/platforms-Android%20%7C%20iOS%20%7C%20Web%20%7C%20Windows%20%7C%20Linux-lightgrey)
+![Languages](https://img.shields.io/badge/languages-127-brightgreen)
 
 A top-down 2D action RPG dungeon crawler. Descend into the dark depths as a brave Knight on a mission to rescue a kidnapped child from the creatures that dwell below.
 
@@ -17,6 +19,7 @@ You are a Knight, the fifth sent into the dungeon to rescue a kidnapped child. N
 - **Puzzles** — find the silver key to unlock the door blocking your path
 - **Dynamic Lighting** — a global darkness overlay pierced by your own glow and flickering torchlight
 - **NPCs & Story** — dialogue-driven narrative from the Wizard and the Kid
+- **127 Languages** — full in-game language selector with native-script display names
 - **Two Control Schemes** — virtual joystick (mobile) or keyboard (desktop)
 
 ### Controls
@@ -33,41 +36,54 @@ You are a Knight, the fifth sent into the dungeon to rescue a kidnapped child. N
 ![Screenshots](media/print2.jpg)
 ![Screenshots](media/print3.jpg)
 
-## How to Play
+## Download
 
-[Play in Browser](#)
+- [GitHub Releases](https://github.com/Developer-Parth/Shadow-Depths/releases) — prebuilt APK
+- [Play in Browser](https://developer-parth.github.io/Shadow-Depths/)
 
-Build the Android APK yourself:
+Or build it yourself:
 
 ```bash
-flutter build apk
+flutter build apk        # Android
+flutter build web        # Web
+flutter build windows    # Windows
+flutter build linux      # Linux
 ```
-
-The release APK will be at `build/app/outputs/flutter-apk/app-release.apk`.
 
 ## Getting Started
 
 This is a [Flutter](https://flutter.dev) project.
 
 ```bash
+git clone https://github.com/Developer-Parth/Shadow-Depths.git
+cd Shadow-Depths
 flutter pub get
-flutter run                    # Default platform
-flutter run -d chrome          # Web
-flutter run -d android         # Android
-flutter build apk              # Build Android APK
-flutter build web              # Build for web
+flutter run -d chrome     # Web
+flutter run -d windows    # Windows
+flutter run -d linux      # Linux
+flutter run -d android    # Android
 ```
 
 ## Supported Platforms
 
-Android, iOS, Web, Linux, macOS.
+| Platform | Status |
+|----------|--------|
+| Android  | Supported |
+| iOS      | Supported |
+| Web      | Supported |
+| Windows  | Supported |
+| Linux    | Supported |
 
 ## Technology Stack
 
 - **Language:** Dart
 - **Framework:** Flutter
 - **Map Editor:** Tiled
-- **Localization:** English + Portuguese
+- **Localization:** 127 languages with in-game selector
+
+## Contributing
+
+Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for setup instructions, code style, and how to add translations.
 
 ## Credits
 
@@ -83,8 +99,8 @@ Android, iOS, Web, Linux, macOS.
 
 ## License
 
-This project (excluding third-party sprites and assets, which remain the property of their respective authors) is released under the [MIT License](https://opensource.org/licenses/mit-license.php).
+This project (excluding third-party sprites and assets, which remain the property of their respective authors) is released under the [MIT License](LICENSE).
 
 ---
 
-Developed by [Parth Thukral](https://parththukral.xyz).
+Built by [Parth Thukral](https://parththukral.xyz).
