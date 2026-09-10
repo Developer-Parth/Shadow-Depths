@@ -3,7 +3,7 @@ param(
 )
 
 $ErrorActionPreference = "Stop"
-$rootDir = Split-Path -Parent (Split-Path -Parent $PSScriptRoot)
+$rootDir = Split-Path -Parent $PSScriptRoot
 $buildDir = Join-Path $rootDir "build\windows\x64\runner\Release"
 $sedFile = Join-Path $rootDir ".iexpress_config.sed"
 $singleExePath = Join-Path $rootDir $OutputName
