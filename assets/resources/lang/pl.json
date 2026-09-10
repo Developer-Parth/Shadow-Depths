@@ -1,0 +1,21 @@
+{
+  "play_cap": "GRAJ",
+  "credits_cap": "TWÓRCY",
+  "powered_by": "Stworzone przez ",
+  "built_with": "Stworzone w ",
+  "talk_wizard_1": "Witaj, młody rycerzu!\nCo tu robisz?",
+  "talk_player_1": "Witaj!\nWysłano mnie, aby uratować dziecko, które zostało porwane przez stwory zamieszkujące te okolice.",
+  "talk_wizard_2": "Humm...\nNie chcę cię zniechęcać, ale jesteś piątym rycerzem wysłanym do tego zadania. Dotychczas żaden nie wrócił żywy, a ich ciała wiszą na ścianach jak trofea.",
+  "talk_player_2": "Nie martw się, staruszku. Taki rycerz jak ja nigdy nie istniał!\nWytępię każdego stwora w tym miejscu i uratuję dziecko!",
+  "talk_wizard_3": "Tak, pewności siebie ci nie brakuje!\nWięc nie mów, że cię nie ostrzegałem!\nPowodzenia!",
+  "talk_kid_1": "Pomocy! Pomocy!",
+  "talk_boss_1": "Zamknij się, ty smakowite stworzenie!\nNadszedł czas, aby spróbować twojej miękkiej skóry! ha ha ha ha",
+  "talk_player_3": "Tym razem to nie będzie twoje obrzydliwe stworzenie!\nTwoje potworne dni dobiegły końca!",
+  "talk_boss_2": "Patrzcie! Kolejny rycerz z nadmuchanym ego, który myśli, że może mnie powstrzymać! ha ha ha ha \nChodź tutaj!",
+  "talk_kid_2": "Dziękuję bogom!!! \nUdało ci się pokonać to straszne stworzenie! Bardzo dziękuję! \nNawet nie wiem, jak ci podziękować!",
+  "talk_player_4": "Było mi pomóc ci! I nie martw się o nagrodę, twój ojciec obiecał mi fortunę za twoje uratowanie! :-)",
+  "play_again_cap": "ZAGRAJ PONOWNIE",
+  "congratulations": "GRATULACJE!",
+  "thanks": "Dziękujemy za grę w Shadow Depths!\nMam nadzieję, że przygoda ci się podobała.\nZostańcie z nami na to, co dalej!",
+  "door_without_key": "Wygląda na to, że potrzebuję klucza, aby się tu dostać!"
+}

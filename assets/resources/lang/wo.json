@@ -1,0 +1,21 @@
+{
+  "play_cap": "LIRI",
+  "credits_cap": "AKRI",
+  "powered_by": "Dëkk ko ",
+  "built_with": "Waardi ko ",
+  "talk_wizard_1": "Naam! Ndaw bu baax!\nYaa fekk ci fii?",
+  "talk_player_1": "Naam!\nMaa di yónni ngir jënd xuux bi ci yeneen rekkaan yu jëm ci biir kaw kàddu yi.",
+  "talk_wizard_2": "Xawaat...\nDamaa bëgga xeloo nga, waaye li ma dellu ci biir, xam-xam du wara baax. Ku nuttu tekki, kenn du ssi nan la, xééti yenn def kàddu ci gaaw yi mu ngay sole.",
+  "talk_player_2": "Bëggaa xam, ndaw bu ndaw. Borom baax du nekk ci mbiri bi!\nMa seetee rekkaan yépp ci fii, te mën ngir jënd xuux bi!",
+  "talk_wizard_3": "Waaw, damaa gëm ni xeloo la bu gën!\nFoogu si nekk damaa booy xam.\nYallaay ngir la!",
+  "talk_kid_1": "Góor gëna-yóbbi! Góor gëna-yóbbi!",
+  "talk_boss_1": "Tàbbi suuf, ci biir ndaw bi baax ngir lekk!\nFayu waat baay yàgg, ci bépp ni ci gëm ngay yébbu te mat!\nHa ha ha ha!",
+  "talk_player_3": "Réew mu ngi nekk, rekkaan bi mënuka joxo la jiitu!\nCi bépp ni ci gëm, baay yàgg ci gëna-gu-yébbu yépp, mu jiitu!",
+  "talk_boss_2": "Xool! Naatilook, ndaw bu ci teek, ni teek di jàpp gëm mënuka ci yépp!\nHa ha ha ha!\nGis nga ci fii!",
+  "talk_kid_2": "Na sara Yàlla doylu ci maana!\nDamaa ko seetee, ndaw bi réew ba jëndu jëm ci gëm!\nYallaay ngir la!",
+  "talk_player_4": "Damaa xam ni li mën la maana, te wóoruma ci loolu, ci sori nga teek ndaw bi, ci ñëf doylu maana!\nTekki ci maana:\nBëj-jàlla ci gëm yépp ci ci mbir ci bëgg! :-)",
+  "play_again_cap": "LIRI WËR-WËR",
+  "congratulations": "NAL DOYLU!",
+  "thanks": "Na Yàlla lay doylu ngir réew ci Shadow Depths!\nDamaa gëm ni mbiri bi yépp doylu ci maana.\nGis nga gëna-nee ci bépp ni ci gëm!",
+  "door_without_key": "Damaa xam ni taay yëpp ma wara ci ci biir!"
+}

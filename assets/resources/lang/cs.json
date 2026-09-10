@@ -1,0 +1,21 @@
+{
+  "play_cap": "HRÁT",
+  "credits_cap": "TVŮRCI",
+  "powered_by": "Vytvořil ",
+  "built_with": "Vytvořeno s ",
+  "talk_wizard_1": "Ahoj, mladý rytíři!\nCo tady děláš?",
+  "talk_player_1": "Ahoj!\nByl jsem vyslán, abych zachránil dítě, které bylo uneseno bytostmi žijícími v těchto končinách.",
+  "talk_wizard_2": "Humm...\nNechci tě odrazovat, ale ty jsi pátý rytíř vyslaný za tímto úkolem. Zatím se nevrátil žádný živý a jejich těla visí na zdech jako trofeje.",
+  "talk_player_2": "Neboj se, starče. Rytíř jako já tu nikdy nebyl!\nVyhubím každou bytost na tomhle místě a to dítě zachráním!",
+  "talk_wizard_3": "Ano, sebevědomí ti rozhodně nechybí!\nTak mi potom neříkaj, že jsem tě nevaroval!\nHodně štěstí!",
+  "talk_kid_1": "Pomóóc! Pomóóc!",
+  "talk_boss_1": "Zamlkni, ty chutná malá bytosti!\nNadešel čas ochutnat tvoji jemnou kůži! ha ha ha ha",
+  "talk_player_3": "Tentokrát to nebude tvá ohavná bytost!\nTvoje monstrosní dny jsou u konce!",
+  "talk_boss_2": "Podívej se na to! Další rytíř s nafoukaným egem, který si myslí, že mě zastaví! ha ha ha ha \nPojď sem!",
+  "talk_kid_2": "Díky bohům!!! \nPodařilo se ti porazit tohle strašlivé stvůru! Moc ti děkuji! \nAni nevím, jak ti poděkovat!",
+  "talk_player_4": "Bylo mi ctí, že jsem ti mohl pomoci! A neboj se o odměnu, tvůj otec mi slíbil jmění za tvé zachrácení! :-)",
+  "play_again_cap": "HRÁT ZNOVU",
+  "congratulations": "GRATULUJEME!",
+  "thanks": "Děkujeme, že jste hráli Shadow Depths!\nDoufáme, že se vám dobrodružství líbilo.\nSledujte, co přijde příště!",
+  "door_without_key": "Myslím, že potřebuji klíč, abych se tudy dostal!"
+}

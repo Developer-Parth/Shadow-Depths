@@ -1,0 +1,21 @@
+{
+  "play_cap": "CHƠI",
+  "credits_cap": "CREDITS",
+  "powered_by": "Xây dựng bởi ",
+  "built_with": "Được tạo với ",
+  "talk_wizard_1": "Xin chào hiệp sĩ trẻ!\nNgươi đang làm gì ở đây?",
+  "talk_player_1": "Xin chào!\nTôi được gửi đến để cứu một đứa trẻ bị bắt cóc bởi những sinh vật sống ở vùng lân cận này.",
+  "talk_wizard_2": "Hừ...\nTôi không muốn làm ngươi nản lòng, nhưng ngươi là hiệp sĩ thứ năm được gửi cho nhiệm vụ này. Cho đến nay, không ai trở lại còn sống và thi thể của họ treo trên tường như chiến lợi phẩm.",
+  "talk_player_2": "Đừng lo ông già ơi. Hiệp sĩ như tôi chưa từng tồn tại!\nTôi sẽ tiêu diệt mọi sinh vật ở đây và cứu đứa trẻ!",
+  "talk_wizard_3": "Đúng, tự tin thì ngươi không thiếu!\nVậy đừng nói ta không cảnh báo ngươi!\nChúc may mắn!",
+  "talk_kid_1": "Cứu tôi! Cứu tôi!",
+  "talk_boss_1": "Im đi, ngươi sinh vật ngon lành nhỏ bé!\nĐã đến lúc nếm thử làn da mềm mại của ngươi! ha ha ha ha",
+  "talk_player_3": "Lần này sẽ không phải là sinh vật tỳ bẩn của ngươi đâu!\nNhững ngày kinh khủng của ngươi đã kết thúc!",
+  "talk_boss_2": "Nhìn đi! Một hiệp sĩ kiêu ngạo khác nghĩ rằng hắn có thể ngăn cản ta! ha ha ha ha\nĐến đây!",
+  "talk_kid_2": "Cảm tạ các vị thần!!!\nNgươi đã đánh bại được sinh vật khủng khiếp này! Cảm ơn rất nhiều!\nTa thậm chí không biết phải cảm ơn ngươi như thế nào!",
+  "talk_player_4": "Đó là vinh dự được giúp ngươi! Và đừng lo về phần thưởng, cha ngươi đã hứa với ta một gia tài để cứu ngươi! :-)",
+  "play_again_cap": "CHƠI LẠI",
+  "congratulations": "XIN CHÚC MỪNG!",
+  "thanks": "Cảm ơn bạn đã chơi Shadow Depths!\nHy vọng bạn đã enjoys cuộc phiêu lưu.\nHãy theo dõi những điều sắp tới!",
+  "door_without_key": "Tôi nghĩ tôi cần một chìa khóa để đi qua đây!"
+}

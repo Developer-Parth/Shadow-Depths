@@ -1,0 +1,21 @@
+{
+  "play_cap": "CHEZA",
+  "credits_cap": "WATENGEZI",
+  "powered_by": "Imetengenezwa na ",
+  "built_with": "Imetengenezwa kwa ",
+  "talk_wizard_1": "Hujambo, kijana wangu shujaa!\nUnafanya nini hapa?",
+  "talk_player_1": "Hujambo!\nNilitumwa kuokoa mtoto ambaye aliibwa na viumbe wanaoishi katika maeneo haya.",
+  "talk_wizard_2": "Humm...\nSitaki kukutia moyo vibaya, lakini wewe ni shujaa wa tano aliyetumwa kwa jina hili. Hadi sasa, hakuna aliyeirudi hai na miili yao inatundika kwenye kuta kama tuzo.",
+  "talk_player_2": "Usijali mzee. Shujaa kama mimi kamwe haijawahi kuwapo!\nNitamaliza kilaiumbe katika mahali pili na nitaokoa mtoto!",
+  "talk_wizard_3": "Ndiyo, utu unaokosekana!\nBasi usiseme kuwa sikukushauri!\nKila la heri!",
+  "talk_kid_1": "Nisaidieni! Nisaidieni!",
+  "talk_boss_1": "Nyamazisha,iumbe mdogo wa ladha!\nWakati umefika wa kuoza ngozi yako laini! ha ha ha ha",
+  "talk_player_3": "Hakutakuwaiumbe chafu yako mara hii!\nSiku zako za kutisha zimeisha!",
+  "talk_boss_2": "Angalia! Shujaa mwingine na kiburi kilichojaa anafikiri anaweza kunisimamisha! ha ha ha ha\nNjoo hapa!",
+  "talk_kid_2": "Nawashukuru miungu!!!\nUmefanikiwa kushindaiumbe hii mbaya! Asante sana!\nSijui hata jinsi ya kukushukuru!",
+  "talk_player_4": "Ilikuwa heshima kuweza kukusaidia! Usijali kunilipa, baba yako aliniahidi utajiri kwa ajili ya kuokoa wewe! :-)",
+  "play_again_cap": "CHEZA TENA",
+  "congratulations": "PONGEZENI!",
+  "thanks": "Asante kwa kucheza Shadow Depths!\nNatarajia ulifurahia adventure.\nAngalia nini kinafuata!",
+  "door_without_key": "Nadhani ninahitaji ufunguo kupita hapa!"
+}

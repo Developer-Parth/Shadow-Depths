@@ -1,0 +1,21 @@
+{
+  "play_cap": "JOUER",
+  "credits_cap": "CRÉDITS",
+  "powered_by": "Créé par ",
+  "built_with": "Conçu avec ",
+  "talk_wizard_1": "Bonjour, jeune chevalier !\nQue fais-tu ici ?",
+  "talk_player_1": "Bonjour !\nJ'ai été envoyé pour secourir un enfant qui a été enlevé par des créatures vivant dans ces contrées.",
+  "talk_wizard_2": "Humm...\nJe ne veux pas te décourager, mais tu es le cinquième chevalier envoyé pour cette tâche. Jusqu'ici, aucun n'est revenu vivant et leurs corps pendent aux murs comme des trophées.",
+  "talk_player_2": "Ne t'inquiète pas, vieil homme. Un chevalier tel que moi n'a jamais existé !\nJ'exterminerai chaque créature en ce lieu et sauverai l'enfant !",
+  "talk_wizard_3": "En effet, la confiance ne te fait pas défaut !\nAlors ne viens pas dire que je ne t'ai pas prévenu !\nBonne chance !",
+  "talk_kid_1": "Au secours ! Au secours !",
+  "talk_boss_1": "La ferme, ma petite créature bien savoureuse !\nLe moment est venu de déguster ta peau tendre ! ha ha ha ha",
+  "talk_player_3": "Ce ne sera pas ta détestable créature cette fois !\nTes jours de monstruosité sont révolus !",
+  "talk_boss_2": "Regarde-moi ça ! Un autre chevalier à l'ego surdimensionné qui prétend pouvoir m'arrêter ! ha ha ha ha \nApproche !",
+  "talk_kid_2": "Merci aux dieux !!! \nTu es parvenu à vaincre cette affreuse créature ! Te remercierait-on suffisamment ! \nJe ne sais même pas comment te remercier !",
+  "talk_player_4": "C'était un honneur de pouvoir t'être utile ! Et ne te soucie point de récompense, ton père m'a promis une fortune pour te soustraire à ce péril ! :-)",
+  "play_again_cap": "REJOUER",
+  "congratulations": "FÉLICITATIONS !",
+  "thanks": "Merci d'avoir joué à Shadow Depths !\nJ'espère que tu as apprécié l'aventure.\nReste à l'écoute pour la suite !",
+  "door_without_key": "Il me faut apparemment une clé pour passer par ici !"
+}

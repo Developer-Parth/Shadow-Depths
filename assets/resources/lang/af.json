@@ -1,0 +1,21 @@
+{
+  "play_cap": "SPEEL",
+  "credits_cap": "KREDIETE",
+  "powered_by": "Gebou deur ",
+  "built_with": "Gebou met ",
+  "talk_wizard_1": "Goeie dag my jong ridder!\nWat doen jy hier?",
+  "talk_player_1": "Goeie dag!\nEk is gestuur om 'n kind te red wat ontvoer is deur wesens wat in hierdie buurt woon.",
+  "talk_wizard_2": "Humm...\nEk wil jou nie demotiveer nie, maar jy is die vyfde ridder wat vir hierdie taak gestuur is. Tot nog toe het niemand lewend teruggekeer nie en hul liggame hang aan die mure soos trofeë.",
+  "talk_player_2": "Moenie worry nie, my ou man. 'n Ridder soos my het nog nooit bestaan nie!\nEk sal elke wese in hierdie plek uitroei en die kind red!",
+  "talk_wizard_3": "Ja, selfvertroue is wat jy nie kort nie!\nSê dan nie ek het jou nie gewaarsku nie!\nSterkte!",
+  "talk_kid_1": "Heeeeelp! Heeeeelp!",
+  "talk_boss_1": "Hou op, jy smaaklike kleine wese!\nDie tyd het gekom om jou sagte vel te proe! ha ha ha ha",
+  "talk_player_3": "Dit gaan nie jou afstootlike wese wees hierdie keer nie!\nJou monsterdae is verby!",
+  "talk_boss_2": "Kyk dit! Nog 'n ridder met 'n opgeblase ego wat dink hy kan my stop! ha ha ha ha \nKom hier!",
+  "talk_kid_2": "Dankie die gode !!! \nJy het daarin geslaag om hierdie verskriklike wese te verslaan! Baie dankie! \nEk weet nie eens hoe om jou te bedank nie!",
+  "talk_player_4": "Dit was 'n eer om jou te kon help! En moenie worry oor 'n beloning nie, jou pa het my 'n fortuin beloof om jou te red! :-)",
+  "play_again_cap": "WEER SPEEL",
+  "congratulations": "GELUK!",
+  "thanks": "Dankie dat jy Shadow Depths gespeel het!\nEk hoop jy het die avontuur geniet.\nBly ingestel op wat volgende kom!",
+  "door_without_key": "Ek dink ek het 'n sleutel nodig om hier deur te gaan!"
+}

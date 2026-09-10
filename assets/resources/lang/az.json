@@ -1,0 +1,21 @@
+{
+  "play_cap": "OYNA",
+  "credits_cap": "TƏŞƏKKÜRLƏR",
+  "powered_by": "Tərəfindən tikilmişdir ",
+  "built_with": " ilə tikilmişdir ",
+  "talk_wizard_1": "Salam, gənc cəngavərim!\nBurada nə edirsən?",
+  "talk_player_1": "Salam!\nBu qonşuluqda yaşayan yaradılışlar tərəfindən oğurlanmış bir uşağı xilas etmək üçün göndərilmişəm.",
+  "talk_wizard_2": "Humm...\nSəni ruhdan salmaq istəmirəm, amma sən bu vəzifə üçün göndərilmiş beşinci cəngavərsən. Hələ heç biri sağ qayıtmayıb və bədənləri divarlarda mükafat kimi asılıb.",
+  "talk_player_2": "Narahat olma, qoca adamım. Mənim kimi cəngavər heç vaxt olmayıb!\nBu yerdəki hər bir yaradılışı məhv edəcəm və uşağı xilas edəcəm!",
+  "talk_wizard_3": "Bəli, özünəinam səndə əskik deyil!\nO zaman demə ki səni xəbərdar etmədim!\nUğurlar!",
+  "talk_kid_1": "Köməəək edin! Köməəək edin!",
+  "talk_boss_1": "Sus, dadlı kiçik yaradılış!\nDəridən dadmağın vaxtı gəldi! ha ha ha ha",
+  "talk_player_3": "Bu dəfə iyrənc yaradılışın olmayacaq!\nSənin monster günlərin sona çatdı!",
+  "talk_boss_2": "Buna bax! Məni dayandıra biləcəyini düşünən başqa bir bubbles ego cəngavər! ha ha ha ha \nGəl bura!",
+  "talk_kid_2": "Tanrılara şükür !!! \nBu dəhşətli yaradılışı məğlub etdin! Çox sağ ol! \nSənə necə minnətdar olacağımı belə bilmirəm!",
+  "talk_player_4": "Sənə kömək edə bilmək şərəf idi! Və məni mükafatlandırmaqdan narahat olma, atan məni xilas etmək üçün sərvət vəd etdi! :-)",
+  "play_again_cap": "YENİDƏN OYNA",
+  "congratulations": "TƏBRİK EDİRİK!",
+  "thanks": "Shadow Depths oynadığınız üçün təşəkkürlər!\nÜmid edirəm macəradan zövq aldınız.\nGələcək üçün gözləyin!",
+  "door_without_key": "Buradan keçmək üçün açar lazımdır!"
+}

@@ -1,0 +1,21 @@
+{
+  "play_cap": "SPELA",
+  "credits_cap": "FÖRFATTARE",
+  "powered_by": "Skapad av ",
+  "built_with": "Skapad med ",
+  "talk_wizard_1": "Hej, min unge riddare!\nVad gör du här?",
+  "talk_player_1": "Hej!\nJag har skickats för att rädda ett barn som blev bortfört av varelser som lever i dessa trakter.",
+  "talk_wizard_2": "Humm...\nJag vill inte motivera dig, men du är den femte ridderen som skickats på detta uppdrag. Hittills har ingen återvänt levande och deras kroppar hänger på väggarna som troféer.",
+  "talk_player_2": "Oroa dig inte, gamle man. En riddare som mig har aldrig funnits!\nJag ska utplåna varje varelse på denna plats och rädda barnet!",
+  "talk_wizard_3": "Ja, självförtroende saknar du inte!\nDå säg inte att jag inte varnade dig!\nLycka till!",
+  "talk_kid_1": "Hjälp! Hjälp!",
+  "talk_boss_1": "Tyst, du lilla godbitsvarelse!\nDags att smaka på din mjuka hud! ha ha ha ha",
+  "talk_player_3": "Det blir inte din vidriga varelse denna gång!\nDina monsterdagar är över!",
+  "talk_boss_2": "Titta där! Ännu en riddare med uppblåst ego som tror sig kunna stoppa mig! ha ha ha ha\nKom hit!",
+  "talk_kid_2": "Tack gudarna!!!\nDu lyckades besegra denna fruktansvärda varelse! Tack så mycket!\nJag vet inte ens hur jag ska tacka dig!",
+  "talk_player_4": "Det var en ära att kunna hjälpa dig! Och oroa dig inte för att belöna mig, din papa lovade mig en förmögenhet för att rädda dig! :-)",
+  "play_again_cap": "SPELA IGÉN",
+  "congratulations": "GRATTIS!",
+  "thanks": "Tack för att du spelade Shadow Depths!\nJag hoppas du njöt av äventyret.\nHåll uppdaterad för det som kommer!",
+  "door_without_key": "Jag tror jag behöver en nyckel för att komma förbi här!"
+}

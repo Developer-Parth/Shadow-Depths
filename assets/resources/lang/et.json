@@ -1,0 +1,21 @@
+{
+  "play_cap": "MÄNGI",
+  "credits_cap": "TEEGIJA",
+  "powered_by": "Ehitas ",
+  "built_with": "Ehitatud ",
+  "talk_wizard_1": "Tere, noor rüütel!\nMida sa siin teed?",
+  "talk_player_1": "Tere!\nMind saadeti päästma last, kelle röövisid olendid, kes nendes paikades elavad.",
+  "talk_wizard_2": "Humm...\nMa ei taha sind heidutada, aga sa oled viies rüütel, kes sellele ülesandele saadeti. Seni pole keegi elus tagasi tulnud ja nende kehad ripuvad seintel trofeedena.",
+  "talk_player_2": "Ära muretse, vana mees. Sellist rüütli nagu mina pole kunagi olnud!\nMa hävitan siin kõik olevused ja päästan selle lapse!",
+  "talk_wizard_3": "Jah, enesekindlust sul puudu ei tule!\nSiis ära ütle, et ma sind ei hoiatanud!\nEdu!",
+  "talk_kid_1": "Abi! Abi!",
+  "talk_boss_1": "Kurat, sa maitsev väike olevus!\nOn aeg maitsta sinu pehmet nahka! ha ha ha ha",
+  "talk_player_3": "Seekord ei saa olema sinu vastik olevus!\nSinu koletised päevad on läbi!",
+  "talk_boss_2": "Vaata seda! Veel üks rüütel ülbiku egoga, kes arvab, et suudab mind peatada! ha ha ha ha \nTule siia!",
+  "talk_kid_2": "Tänan jumalaid!!! \nSul õnnestus see kohutav olevus porajada! Suur aitäh! \nMa isegi ei tea, kuidas sind tänada!",
+  "talk_player_4": "See oli au sind aidata! Ja ära muretse tasu pärast, sinu isa lubas mulle varanduse, et sind päästa! :-)",
+  "play_again_cap": "MÄNGI UUESTI",
+  "congratulations": "ÕNNITLEME!",
+  "thanks": "Täname Shadow Depths'i mängimise eest!\nLoodan, et sulle meeldis seiklus.\nJälgi, mis edasi tuleb!",
+  "door_without_key": "Ma arvan, et mul on vaja võtit, et siit läbi saada!"
+}

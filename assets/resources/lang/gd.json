@@ -1,0 +1,21 @@
+{
+  "play_cap": "CLUICH",
+  "credits_cap": "CREUDISEAN",
+  "powered_by": "Dèanta le ",
+  "built_with": "Dèanta le ",
+  "talk_wizard_1": "Halò mo ridire óg!\nDè tha thu a' dèanamh an seo?",
+  "talk_player_1": "Halò!\nChuir iad mi airson leasachadh o h-àite a chaidh a ghlacadh le creutairean a tha a' fuireach anns na dùthchannan seo.",
+  "talk_wizard_2": "Hm...\nChan eil mi ag iarraidh tu a dhìochu, ach tha thu na an còigeamh ridire a chaidh a chur air an obair seo. Gu ruig seo, cha do thill duine sam bith beo, agus tha an corp aca air a crochadh air na ballach mar bhuannachdan.",
+  "talk_player_2": "Na biagal, mo sheann duine. Chan eil ridire mar thu air a bhith ann roimhe!\nCuiridh mi gach creutair a tha an seo às a chéile agus leasachadh an leanbh!",
+  "talk_wizard_3": "Tha, chan eil easpa misneach agad!\nNa can gun do dh'innis mi dhut e!\nBarrachd do ghreidh!",
+  "talk_kid_1": "Cuireadh! Cuirridh!",
+  "talk_boss_1": "Dùin do bhial! Creutair beag blàth!\nThàinig an ùine air do chraiceann bog a bhlasadh! ha ha ha ha",
+  "talk_player_3": "Chan eil e a' dol a bhith na creutair gharg an uair seo!\nTha do làithean uamhasach air a bhith crìoch!",
+  "talk_boss_2": "Faic! Ridire eile le egoca mhòr a' smaoineachadh gun urrainn e stad a chur orm! ha ha ha ha\nThig an seo!",
+  "talk_kid_2": "Mòran taing do dhia!!!\nDh'_fhàg thu an creutair uamhasach seo! Tapadh leat gu mòr!\nChan eil fhios agam fiù dè tha ri rinn le taing!",
+  "talk_player_4": "Bha e na urram a d' fhàgail a chuideachadh leat! Agus na biagal mu luach, dh'fhàg do athair fortune a chur tu airson leasachadh! :-)",
+  "play_again_cap": "CLUICH A-RITHIST",
+  "congratulations": "CUINNEACHADH!",
+  "thanks": "Tapadh leat airson Shadow Depths a chluich!\nTha mi an dòchas gun do mheud thu an eachdraigh.\nLean an aon a tha a' tighinn!",
+  "door_without_key": "Saoil a bheil e a dhìth mi a thachairt an seo!"
+}

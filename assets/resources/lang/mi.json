@@ -1,0 +1,21 @@
+{
+  "play_cap": "TĀKARO",
+  "credits_cap": "KAIPĀNUI",
+  "powered_by": "Hangaia e ",
+  "built_with": "Na hangaia ki te ",
+  "talk_wizard_1": "Kia ora, tama rangatira!\nHe aha tāu e mahi nei ki konei?",
+  "talk_player_1": "Kia ora!\nKa tukuna ahau ki te whakaora i tētahi tamaiti nā ngā mea e noho ana ki tēnei wāhi.",
+  "talk_wizard_2": "Hī...\nKāore ahau i te hiahia ki te whakakore ahakoa, engari ko koe te rima o ngā rangatira ka tukuna ki tēnei mahi. Kāore anō i hoki tetahi, ā kei te hanga o ā rātou tinana i te pātū pēnei i te taonga.",
+  "talk_player_2": "Kaua e āmaimai, e tāua. Kāore anō i kitea tetahi pēnei i ahau!\nKa whakamatea e au ngā mea katoa ki konei, ka whakaora hoki i te tamaiti!",
+  "talk_wizard_3": "Āe, kāore e kore te āmaimai!\nNā reira kaua e kī ana kāore ahau i whakapūranga!\nKa waiora!",
+  "talk_kid_1": "Āwhina! Āwhina!",
+  "talk_boss_1": "Whakangū! He mea iti tino tino pākari!\nKua tae te wā ki te tīkina tō tīnana! ha ha ha ha",
+  "talk_player_3": "Kāore e rerekē te mea whakapōua o tō mea pākari!\nKua mutu ngā rā whakamomore o tō mea!",
+  "talk_boss_2": "Tirohia! He rangatira anō e tino āmaimai ana e whakaaro ana ka taea e ia te aukati ahau! ha ha ha ha\nHaere mai ki konei!",
+  "talk_kid_2": "Kia ora ngā atua!!!\nKua taea e koe te patu i tēnei mea whakamomore! Nui te mihi!\nKāore ahau i te mōhio ki te whakamihi ki a koe!",
+  "talk_player_4": "He tino manaaki ki te taea te āwhina i a koe! Kaua e āmaimai ki te utu, kua tuku te matua he rau o te rau hei whakaora i a koe! :-)",
+  "play_again_cap": "TĀKARO ANŌ",
+  "congratulations": "TUĀURU!",
+  "thanks": "Mihi ki a koe i te tākaro i Shadow Depths!\nKo te tūmanako ka nō te āwhina i te haerenga.\nTirohia ngā mea e haere mai ana!",
+  "door_without_key": "Kei te whakaaro kei te hiahia he kī ki te haere i konei!"
+}

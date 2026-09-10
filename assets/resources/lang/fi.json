@@ -1,0 +1,21 @@
+{
+  "play_cap": "PELAA",
+  "credits_cap": "TEKIJÄT",
+  "powered_by": "Rakentanut ",
+  "built_with": "Rakennettu ",
+  "talk_wizard_1": "Hei, nuori ritari!\nMitä teet täällä?",
+  "talk_player_1": "Hei!\n minut on lähetetty pelastamaan lapsi, jonka ovat ryöstäneet olennot, jotka asuvat näillä seuduilla.",
+  "talk_wizard_2": "Humm...\nEn halua masentaa sinua, mutta sinä viides ritari, joka lähetettiin tälle tehtävälle. Toistaiseksi kukaan ei ole palannut hengissä, ja heidän ruumiinsa roikkuu seinillä trofeina.",
+  "talk_player_2": "Älä huolestu, vanhus. Minun kaltaisiani ricareja ei ole koskaan olemassa ollut!\nTuhoan jokaisen olennon täältä ja pelastan sen lapsen!",
+  "talk_wizard_3": "Kyllä, itsevarmuutta sinulta ei puutu!\nÄlä siis sano, ettei varoittanut!\nOnnea!",
+  "talk_kid_1": "Auttakaa! Auttakaa!",
+  "talk_boss_1": "Hiljaa, sinä herkullinen pikkuolento!\nOn aika maistaa pehmeää ihoasi! ha ha ha ha",
+  "talk_player_3": "Tällä kertaa ei ole sinun inhottavaa olentoasi!\nSinun hirviömäiset päiväsi ovat ohi!",
+  "talk_boss_2": "Katso sitä! Taas yksi ritari yliarvioitulla egolla, joka luulee pystyvänsä pysäyttämään minut! ha ha ha ha \nTule tänne!",
+  "talk_kid_2": "Kiitän jumalat!!! \nOnnistuit voittamaan tämän kauhean olennon! Kiitos paljon! \nEn edes tiedä, kuinka kiittää sinua!",
+  "talk_player_4": "Oli kunnia voida auttaa sinua! Ja älä huolestu palkinnosta, isäsi lupasi minulle vaurauden sinun pelastamisestasi! :-)",
+  "play_again_cap": "PELAA UUDESTAAN",
+  "congratulations": "ONNITTELU!",
+  "thanks": "Kiitos Shadow Depths -pelistä!\nToivon, että nautit seikkailusta.\nSeuraa mitä tulee seuraavaksi!",
+  "door_without_key": "Luulen, että tarvitsen avaimen päästäkseni tästä läpi!"
+}

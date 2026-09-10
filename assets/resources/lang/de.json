@@ -1,0 +1,21 @@
+{
+  "play_cap": "SPIELEN",
+  "credits_cap": "CREDITS",
+  "powered_by": "Erstellt von ",
+  "built_with": "Erstellt mit ",
+  "talk_wizard_1": "Hallo, junger Ritter!\nWas machst du hier?",
+  "talk_player_1": "Hallo!\nIch bin geschickt worden, um ein Kind zu retten, das von Wesen entführt wurde, die in dieser Gegend leben.",
+  "talk_wizard_2": "Humm...\nIch will dich nicht entmutigen, aber du bist der fünfte Ritter, der für diese Aufgabe geschickt wurde. Bisher ist keiner lebend zurückgekehrt und ihre Körper hängen wie Trophäen an den Wänden.",
+  "talk_player_2": "Keine Sorge, alter Mann. Einen Ritter wie mich hat es noch nie gegeben!\nIch werde jedes Wesen an diesem Ort ausrotten und das Kind retten!",
+  "talk_wizard_3": "Ja, an Selbstvertrauen mangelt es dir nicht!\nSag dann nicht, ich hätte dich nicht gewarnt!\nViel Glück!",
+  "talk_kid_1": "Hilfe! Hilfe!",
+  "talk_boss_1": "Halt die Klappe, du leckeres kleines Wesen!\nEs ist an der Zeit, deine weiche Haut zu probieren! ha ha ha ha",
+  "talk_player_3": "Dieses Mal wird es nicht dein abscheuliches Wesen sein!\nDeine Monströsen Tage sind vorbei!",
+  "talk_boss_2": "Schau mal! Noch ein Ritter mit aufgeblähtem Ego, der denkt, er kann mich aufhalten! ha ha ha ha \nKomm her!",
+  "talk_kid_2": "Danke an die Götter!!! \nEs ist dir gelungen, dieses schreckliche Wesen zu besiegen! Vielen Dank! \nIch weiß nicht einmal, wie ich dir danken soll!",
+  "talk_player_4": "Es war eine Ehre, dir helfen zu können! Und mach dir keine Sorgen um eine Belohnung, dein Vater hat mir ein Vermögen versprochen, um dich zu retten! :-)",
+  "play_again_cap": "ERNEUT SPIELEN",
+  "congratulations": "HERZLICHEN GLÜCKWUNSCH!",
+  "thanks": "Vielen Dank fürs Spielen von Shadow Depths!\nIch hoffe, das Abenteuer hat dir gefallen.\nBleib gespannt auf das, was kommt!",
+  "door_without_key": "Ich glaube, ich brauche einen Schlüssel, um hier durchzukommen!"
+}

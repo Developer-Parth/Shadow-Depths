@@ -1,0 +1,21 @@
+{
+  "play_cap": "JOACĂ",
+  "credits_cap": "CREDITS",
+  "powered_by": "Făcut de ",
+  "built_with": "Construit cu ",
+  "talk_wizard_1": "Salut, tânărul meu cavaler!\nCe faci tu aici?",
+  "talk_player_1": "Salut!\nAm fost trimis pentru a salva un copil care a fost răpit de creaturi ce trăiesc în aceste vecinătăți.",
+  "talk_wizard_2": "Humm...\nNu vreau să te descurajez, dar ești al cincilea cavaler trimis pentru această misiune. Până acum, niciunul nu s-a întors cu viață și corpurile lor atârnă pe pereți ca trofee.",
+  "talk_player_2": "Nu-ți face griji, bătrâne. Cavaler ca mine nu a existat niciodată!\nVoi extermina fiecare creatură din acest loc și o voi salva pe copil!",
+  "talk_wizard_3": "Da, încredere nu îți lipsește!\nAtunci nu spune că nu te-am avertizat!\nNoroc!",
+  "talk_kid_1": "Ajutor! Ajutor!",
+  "talk_boss_1": "Taci din gură, creatură mică apetisantă!\nA sosit timpul să gust pielea ta moale! ha ha ha ha",
+  "talk_player_3": "De data asta nu va fi creatura ta scârboasă!\nZilele tale monstruoase s-au terminat!",
+  "talk_boss_2": "Uite-l! Încă un cavaler cu ego-ul umflat care crede că mă poate opri! ha ha ha ha\nVino aici!",
+  "talk_kid_2": "Slavă zeilor!!!\nAi reușit să înfrângi această creatură oribilă! Îți mulțumesc foarte mult!\nNici măcar nu ști cum să îți mulțumesc!",
+  "talk_player_4": "A fost o onoare să te pot ajuta! Și nu-ți face griji să mă răsplătești, tatăl tău mi-a promis o avere ca să te salvez! :-)",
+  "play_again_cap": "JOACĂ DIN NOU",
+  "congratulations": "FELICITĂRI!",
+  "thanks": "Mulțumim că ai jucat Shadow Depths!\nSper că te-ai bucurat de aventură.\nFii pe fază pentru ce urmează!",
+  "door_without_key": "Cred că am nevoie de o cheie ca să trec pe aici!"
+}

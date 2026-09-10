@@ -1,0 +1,21 @@
+{
+  "play_cap": "HRAŤ",
+  "credits_cap": "TVORCOVIA",
+  "powered_by": "Vytvoril ",
+  "built_with": "Vytvorené s ",
+  "talk_wizard_1": "Ahoj, môj mladý rytier!\nČo tu robíš?",
+  "talk_player_1": "Ahoj!\nBol som vyslaný, aby som zachránil dieťa, ktoré uniesli príšery žijúce v týchto končinách.",
+  "talk_wizard_2": "Humm...\nNechcem ťa demotivovať, ale si piaty rytier vyslaný na túto úlohu. Zatiaľ sa ani jeden nevrátil živý a ich telá visia na stenách ako trofeje.",
+  "talk_player_2": "Neboj sa, starček. Rytier ako ja tu ešte nikdy nebol!\nVyhubím každú príšeru na tomto mieste a zachránim to dieťa!",
+  "talk_wizard_3": "Áno, sebavedomia ti nechýba!\nPotom nehovor, že som ťa nevaroval!\nVeľa šťastia!",
+  "talk_kid_1": "Pomóc! Pomóc!",
+  "talk_boss_1": "Zatvor hubu, chutná malá príšera!\nNastal čas ochutnať tvoju jemnú kožu! ha ha ha ha",
+  "talk_player_3": "Tentokrát to nebude tvoja hnusná príšera!\nTvoje monštruózne dni sú u konca!",
+  "talk_boss_2": "Pozeraj! Ďalší rytier s nafúknutým egom, ktorý si myslí, že ma môže zastaviť! ha ha ha ha\nPoď sem!",
+  "talk_kid_2": "Vďaka bohom!!!\nPodarilo sa ti poraziť túto hroznú príšeru! Veľmi pekne ďakujem!\nAni neviem, ako sa ti poďakovať!",
+  "talk_player_4": "Bolo mi cťou, že som ti mohol pomôcť! A neboj sa ma odmeniť, tvoj otec mi sľubil poklad za tvoje zachránenie! :-)",
+  "play_again_cap": "HRAŤ ZNOVU",
+  "congratulations": "GRATULUJEME!",
+  "thanks": "Ďakujeme, že ste hrali Shadow Depths!\nDúfame, že sa vám dobrodružstvo páčilo.\nSledujte, čo príde ďalej!",
+  "door_without_key": "Myslím, že potrebujem kľúč, aby som sa dostal cez toto!"
+}

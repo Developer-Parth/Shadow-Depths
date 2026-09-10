@@ -1,0 +1,21 @@
+{
+  "play_cap": "SPEL",
+  "credits_cap": "KREDITTER",
+  "powered_by": "Laget av ",
+  "built_with": "Laget med ",
+  "talk_wizard_1": "Hei, min unge ridder!\nHva driver du med her?",
+  "talk_player_1": "Hei!\nJeg ble sendt for å redde et barn som ble bortført av skapninger som bor i disse nabolagene.",
+  "talk_wizard_2": "Humm...\nJeg vil ikke demotivere deg, men du er den femte ridderen som er sendt på denne oppgaven. Så langt har ingen kommet tilbake i live, og kroppene deres henger fra veggene som trofeer.",
+  "talk_player_2": "Bekymre deg ikke, gamle mannen min. Det har aldri eksistert en ridder som meg!\nJeg vil utrydde hver skapning på dette stedet og redde barnet!",
+  "talk_wizard_3": "Ja, selvtillit er det du ikke mangler!\nSi ikke at jeg ikke advarte deg!\nLykke til!",
+  "talk_kid_1": "Hjelp! Hjelp!",
+  "talk_boss_1": "Hold kjeft, du velsmakende lille skapning!\nTiden er kommet til å smake din myke hud! ha ha ha ha",
+  "talk_player_3": "Det blir ikke din motbydelige skapning denne gangen!\nDine monster-dager er over!",
+  "talk_boss_2": "Se det! En ridder til med oppblåst ego som tror han kan stoppe meg! ha ha ha ha \nKom her!",
+  "talk_kid_2": "Takk gudene!!! \nDu klarte å beseire denne forferdelige skapningen! Tusen takk! \nJeg vet ikke engang hvordan jeg skal takke deg!",
+  "talk_player_4": "Det var en ære å kunne hjelpe deg! Og ikke bekymre deg for belønningen, faren din lovet meg en formue for å redde deg! :-)",
+  "play_again_cap": "SPEL IGJEN",
+  "congratulations": "GRATULERER!",
+  "thanks": "Takk for at du spilte Shadow Depths!\nJeg håper du likte eventyret.\nFølg med på hva som kommer!",
+  "door_without_key": "Jeg tror jeg trenger en nøkkel for å komme gjennom her!"
+}

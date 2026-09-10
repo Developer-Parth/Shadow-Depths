@@ -1,0 +1,21 @@
+{
+  "play_cap": "O'YNASH",
+  "credits_cap": "TAYYORLASHCHILAR",
+  "powered_by": "Yaratgan ",
+  "built_with": "Yasalgan ",
+  "talk_wizard_1": "Salom, yosh chevalier!\nBu yerda nima qilyapsan?",
+  "talk_player_1": "Salom!\nBu mahallalarda yashovchi maxluqlotlar tomonidan o'g'irlab ketilgan bolani qutqarishga yuborildim.",
+  "talk_wizard_2": "Xmm...\nSeni ruhdan tushirmoqchi emasman, lekin bu vazifa uchun yuborilgan beshinchi chevaliersan. Hozirgacha hech kim tirik qaytmadi va ularning jasadi devorlarda sovrin sifatida osilgan.",
+  "talk_player_2": "Xavotir olma, qari aka. Menday chevalier hech bo'lmagan!\nBu joydagi har bir maxluqni yo'q qilaman va bolani qutqaraman!",
+  "talk_wizard_3": "Ha, ishonch jihatdan kamching yo'q!\nUnda ogohlantirmadim dema!\nOmat!",
+  "talk_kid_1": "Yordam! Yordam!",
+  "talk_boss_1": "Jim bo'l, mazali kichik maxluq!\nMoling yumshoq terisini tatish vaqti keldi! ha ha ha ha",
+  "talk_player_3": "Bu safar sening iyrinish maxluqing bo'lmaydi!\nSening vahshiy kunlaring tugadi!",
+  "talk_boss_2": "Qara! Boshqa bir chevalier o'zini katta deb o'ylaydi va meni to'xtatishi mumkin deb o'ylaydi! ha ha ha ha\nBu yerga kel!",
+  "talk_kid_2": "Xudoga shukur!!!\nSiz ush dahshatli maxluqni yengdingiz! Juda juda rahmat!\nSizga qanday minnatdorlik bildirishni bilmayman!",
+  "talk_player_4": "Sizga yordam berish sharaf bo'ldi! Va mukofot haqida tashvishlanmang, otangiz sizni qutqarish uchun menga boylik va'da qildi! :-)",
+  "play_again_cap": "YANA O'YNASH",
+  "congratulations": "TABRIKLAYMIZ!",
+  "thanks": "Shadow Depths o'ynaganingiz uchun rahmat!\nSargardonlikdan zavq olganingizga umid qilaman.\nKeyingisiga kuzating!",
+  "door_without_key": "Bu yerdan o'tish uchun kalit kerak deb o'ylayman!"
+}

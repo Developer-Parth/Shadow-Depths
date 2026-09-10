@@ -1,0 +1,21 @@
+{
+  "play_cap": "MAIN",
+  "credits_cap": "PEMBANGUN",
+  "powered_by": "Dibina oleh ",
+  "built_with": "Dibina dengan ",
+  "talk_wizard_1": "Halo, young knight ku!\nApa yang kau lakukan di sini?",
+  "talk_player_1": "Halo!\nAku dihantar untuk menyelamatkan seorang kanak-kanak yang diculik oleh makhluk yang tinggal di kawasan kejiranan ini.",
+  "talk_wizard_2": "Humm...\nAku tidak mahu mengecewakan kau, tetapi kau adalah knight kelima yang dihantar untuk tugasan ini. Setakat ini, tiada siapa yang kembali hidup, dan mayat mereka tergantung di dinding seperti trofi.",
+  "talk_player_2": "Jangan risau, pakcikku. Knight seperti aku tidak pernah wujud!\nAku akan memusnahkan setiap makhluk di tempat ini dan menyelamatkan kanak-kanak itu!",
+  "talk_wizard_3": "Ya, keyakinan diri adalah sesuatu yang kau tidak kurang!\nJadi jangan kata aku tidak memberi amaran!\nSemoga berjaya!",
+  "talk_kid_1": "Tolong! Tolong!",
+  "talk_boss_1": "Diam, makhluk kecil yang menyelerakan!\nMasanya telah tiba untuk merasai kulit lembutmu! ha ha ha ha",
+  "talk_player_3": "Kali ini bukan makhluk menjijikkanmu!\nHari-hari mengerikanmu sudah berakhir!",
+  "talk_boss_2": "Lihat itu! Seorang lagi knight dengan ego membengkak yang fikir dia boleh menghentikan aku! ha ha ha ha \nMari sini!",
+  "talk_kid_2": "Terima kasih para dewa!!! \nBerjaya mengalahkan makhluk ngeri ini! Terima kasih banyak! \nAku tidak tahu bagaimana untuk berterima kasih!",
+  "talk_player_4": "Ia satu penghormatan dapat membantu kau! Dan jangan risau tentang ganjaran, bapamu berjanji kekayaan untuk menyelamatkan kau! :-)",
+  "play_again_cap": "MAIN LAGI",
+  "congratulations": "TAHNIAH!",
+  "thanks": "Terima kasih kerana bermain Shadow Depths!\nHarap kau menikmati pengembaraan ini.\nNantikan yang seterusnya!",
+  "door_without_key": "Aku rasa aku perlui kunci untuk melalui sini!"
+}

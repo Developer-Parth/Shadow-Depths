@@ -1,0 +1,21 @@
+{
+  "play_cap": "LEIKUR",
+  "credits_cap": "SKAPARAR",
+  "powered_by": "Byggt af ",
+  "built_with": "Byggt með ",
+  "talk_wizard_1": "Góðan daginn, ungi riddari!\nHvað ertu að gera hér?",
+  "talk_player_1": "Góðan daginn!\nÉg var send til að bjarga barni sem var rænt af verum sem búa í þessum nágrenni.",
+  "talk_wizard_2": "Júmm...\nÉg vil ekki dæla úr þér, en þú ert fimmti riddarinn sem er sendur í þetta verkefni. Hingað til hefur enginn komið á lífi og líkama þeirra hanga á veggjunum eins og verðlaun.",
+  "talk_player_2": "Hafðu engar áhyggjur, gamli minn. Riddari eins og ég hefur aldrei verið til!\nÉg mun eyða öllum verum á þessum stað og bjarga barninu!",
+  "talk_wizard_3": "Já, sjálfstraust er eitthvað sem þér skortir ekki!\nÞá skaltu ekki segja að ég hafi ekki varað þig við!\nGanga þér vel!",
+  "talk_kid_1": "Hjálpið! Hjálpið!",
+  "talk_boss_1": "Þegiðu, þú ljúffenga litla ver!\nTíminn er kominn til að bragða á mjúku húðinni þinni! ha ha ha ha",
+  "talk_player_3": "Þetta verður ekki þín viðbjóðslega ver þetta sinn!\nÓgnuðu dagarnir þínir eru búnir!",
+  "talk_boss_2": "Sjáðu! Annar riddari með uppblásna egó sem heldur að hann geti stöðvað mig! ha ha ha ha \nKomdu hér!",
+  "talk_kid_2": "Takk guðum!!! \nÞér tókst að leggja þessa hræðilegu ver að velli! Takk kærlega! \nÉg veit ekki einu sinni hvernig ég á að þakka þér!",
+  "talk_player_4": "Það var heiður að geta hjálpað þér! Og hafðu engar áhyggjur af laununum, faðir þinn lofaði mér formi til að bjarga þér! :-)",
+  "play_again_cap": "LEIKA AFTUR",
+  "congratulations": "TIL HAMINGJU!",
+  "thanks": "Takk fyrir að leika Shadow Depths!\nÉg vona að þér hafið notið ævintýrisins.\nFylgist með því sem koma skal!",
+  "door_without_key": "Ég held að þurfi lykil til að komast í gegnum hér!"
+}

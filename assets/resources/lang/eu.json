@@ -1,0 +1,21 @@
+{
+  "play_cap": "JOLKATU",
+  "credits_cap": "KREDITUAK",
+  "powered_by": "Egina ",
+  "built_with": "Egina ",
+  "talk_wizard_1": "Kaixo nire gazte zaldia!\nZer egiten duzu hemen?",
+  "talk_player_1": "Kaixo!\nHaurre bat erreskatatzera bidali ninduten, auzo hauetan bizi diren izakiek bahitu zutena.",
+  "talk_wizard_2": "Hm...\nEz dut nahi motibazioa kendu, baina zure bostgarren zaldia zarete honetarako bidalitakoa. Oraindik inor ez da bizirik itzuli, eta haien gorputzak trofeoak bezala daude paretetan esekita.",
+  "talk_player_2": "Ez kezkatu nire gizona. Nire bezalako zaldia inoiz ez da egon!\nEremu honetako izaki guztiak suntsituko ditut eta haurra erreskatatuko dut!",
+  "talk_wizard_3": "Bai, ez zaude konfiantza falta!\nBeraz, ez esan ni ez nizula abisatu!\nZorte ona!",
+  "talk_kid_1": "Lagundu! Lagundu!",
+  "talk_boss_1": "Isildu, izaki apetitsu txikia!\nZure larru biguna dastatzeko garaia heldu da! ha ha ha ha",
+  "talk_player_3": "Ez da izaki zatarra izango zure aldi honetan!\nZure egun izugarriak amaitu dira!",
+  "talk_boss_2": "Begira! Beste zaldi bat bere egoa puztuta, niri gelditu nahi dudala uste duena! ha ha ha ha\nHemen etorri!",
+  "talk_kid_2": "Jainkoei eskerrak!!!\nLortu duzu izaki beldurgarri hau garaitzea! Eskerrik asko!\nEz dakit nola eskertu!",
+  "talk_player_4": "Ohore bat izan da zuri lagundu ahal izatea! Eta ez kezkatu saritzeaz, aitak fortuna bat hitz egin zidan zure erreskatatzeko! :-)",
+  "play_again_cap": "JOLKATU BERRIZ",
+  "congratulations": "ZORIONAK!",
+  "thanks": "Eskerrik asko Shadow Depths jolsteagatik!\nEspero dut abentura disfrutatu duzula.\nEtorriko dena jarraitu!",
+  "door_without_key": "Uste dut giltza bat behar dudala hemen pasatzeko!"
+}

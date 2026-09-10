@@ -1,0 +1,21 @@
+{
+  "play_cap": "SPĒLĒT",
+  "credits_cap": "VEIDOTĀJI",
+  "powered_by": "Izveidoja ",
+  "built_with": "Izveidots ar ",
+  "talk_wizard_1": "Sveiki, mans jaunais bruņiniek!\nKo tu dari šeit?",
+  "talk_player_1": "Sveiki!\nMani sūtīja, lai glābtu bērnu, kuru nolaupīja radījumi, kas dzīvo šajā apkārtnē.",
+  "talk_wizard_2": "Hmm...\nNegribu tevi nomākt, bet tu esi piektais bruņinieks, kas sūtīts šim uzdevumam. Līdz šim neviens nav atgriezies dzīvs, un viņu ķermeņi karājas pie sienām kā trofejas.",
+  "talk_player_2": "Neuztraucies, mans vecītis. Tāds bruņinieks kā es nekad nav pastāvējis!\nEs iznīcināšu katru radījumu šajā vietā un glābšu bērnu!",
+  "talk_wizard_3": "Jā, pašpārliecinātība ir tas, ko tev netrūkst!\nTad nesaki, ka brīdināju tevi!\nVeiksmi!",
+  "talk_kid_1": "Palīdziet! Palīdziet!",
+  "talk_boss_1": "Klusē, tu garšīgais mazais radījums!\nIr laiks pagaršot tavu maigo ādu! ha ha ha ha",
+  "talk_player_3": "Šoreiz tā nebūs tavā pretīgā radījuma kārta!\nTavas monstru dienas ir beigušās!",
+  "talk_boss_2": "Paskaties! Vēl viens bruņinieks ar uzpūstu egu, kas domā, ka var mani apturēt! ha ha ha ha \nNāc šurp!",
+  "talk_kid_2": "Paldies dieviem!!! \nTev izdevās uzvarēt šo briesmīgo radījumu! Liels paldies! \nEs pat nezinu, kā tev pateikties!",
+  "talk_player_4": "Tas bija gods tev palīdzēt! Un neuztraucies par atalgojumu, tavs tēvs man solīja bagātību, lai tevi glābtu! :-)",
+  "play_again_cap": "SPĒLĒT VĒLREIZ",
+  "congratulations": "APSVEICU!",
+  "thanks": "Paldies, ka spēlējāt Shadow Depths!\nCeru, ka jums patika piedzīvojums.\nSekojiet līdzi tam, kas sekos!",
+  "door_without_key": "Man šķiet, ka man vajag atslēgu, lai tiktu cauri šeit!"
+}

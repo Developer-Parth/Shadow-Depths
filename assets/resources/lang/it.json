@@ -1,0 +1,21 @@
+{
+  "play_cap": "GIOCA",
+  "credits_cap": "CREDITI",
+  "powered_by": "Sviluppato da ",
+  "built_with": "Realizzato con ",
+  "talk_wizard_1": "Salve, giovane cavaliere!\nCosa stai facendo qui?",
+  "talk_player_1": "Salve!\nSono stato inviato per salvare un bambino che è stato rapito da creature che vivono in questi quartieri.",
+  "talk_wizard_2": "Humm...\nNon voglio demotivarti, ma sei il quinto cavaliere inviato per questa missione. Finora nessuno è tornato vivo e i loro corpi pendono dai muri come trofei.",
+  "talk_player_2": "Non preoccuparti, vecchio mio. Un cavaliere come me non è mai esistito!\nEstinzerò ogni creatura in questo luogo e salverò il bambino!",
+  "talk_wizard_3": "Sì, la sicurezza non ti manca!\nAllora non dire che non ti ho avvertito!\nBuona fortuna!",
+  "talk_kid_1": "Aiuto! Aiuto!",
+  "talk_boss_1": "Taci, piccola creatura gustosa!\nÈ giunto il momento di assaggiare la tua pelle soffice! ha ha ha ha",
+  "talk_player_3": "Questa volta non sarà la tua disgustosa creatura!\nI tuoi giorni mostruosi sono finiti!",
+  "talk_boss_2": "Guardate! Un altro cavaliere con un ego gonfiato che pensa di potermi fermare! ha ha ha ha \nVieni qui!",
+  "talk_kid_2": "Ringrazio gli dei!!! \nSei riuscito a sconfiggere questa orribile creatura! Grazie mille! \nNon so nemmeno come ringraziarti!",
+  "talk_player_4": "È stato un onore poterti aiutare! E non preoccuparti per la ricompensa, tuo padre mi ha promesso una fortuna per salvarti! :-)",
+  "play_again_cap": "GIOCA ANCORA",
+  "congratulations": "CONGRATULAZIONI!",
+  "thanks": "Grazie per aver giocato Shadow Depths!\nSpero che ti sia piaciuta l'avventura.\nResta sintonizzato per il prossimo capitolo!",
+  "door_without_key": "Credo di aver bisogno di una chiave per passare di qui!"
+}

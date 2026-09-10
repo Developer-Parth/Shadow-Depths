@@ -1,0 +1,21 @@
+{
+  "play_cap": "XOGAR",
+  "credits_cap": "CRÉDITOS",
+  "powered_by": "Feito por ",
+  "built_with": "Feito con ",
+  "talk_wizard_1": "Ola, meu xove cabaleiro!\nQue fas aquí?",
+  "talk_player_1": "Ola!\nMandáronme rescatar un neno que foi secuestrado por criaturas que viven nestas barrios.",
+  "talk_wizard_2": "Humm...\nNon quero desmotivarche, pero es o quinto cabaleiro enviado para esta tarefa. Ata agora, ninguén regresou vivo e os seus corpos están colgados das paredes como trofeos.",
+  "talk_player_2": "Non te preocupes, vello. Cabaleiro como min nunca existiu!\nExterminaré cada criatura neste lugar e rescatarei o neno!",
+  "talk_wizard_3": "Si, o que non che falta é confianza!\nEntón non digas que non te avisei!\nBoa sorte!",
+  "talk_kid_1": "Axuda! Axuda!",
+  "talk_boss_1": "Cállate, criatura apetitosa!\nChegou o momento de probar a túa pel suave! ha ha ha ha",
+  "talk_player_3": "Esta vez non será a túa criatura asqurosa!\nOs teus días monstruosos remataron!",
+  "talk_boss_2": "Mira! Outro cabaleiro cun ego inflado que cre pode pararme! ha ha ha ha\nVén aquí!",
+  "talk_kid_2": "Grazas aos deuses!!!\nConseguiches derrotar esta horrible criatura! Moitas grazas!\nNin sequera sei como agradecerte!",
+  "talk_player_4": "Foi un honor poder axudarche! E non te preocupes polo premio, o teu pai prometeume unha fortuna para rescatarte! :-)",
+  "play_again_cap": "XOGAR DE NOVO",
+  "congratulations": "PARABÉNS!",
+  "thanks": "Grazas por xogar Shadow Depths!\nAgardo que desfrutaras da aventura.\nMantéñte ao tanto do que vén!",
+  "door_without_key": "Creo que necesito unha chave para pasar por aquí!"
+}

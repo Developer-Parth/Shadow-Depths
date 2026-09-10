@@ -1,0 +1,21 @@
+{
+  "play_cap": "JÁTÉK",
+  "credits_cap": "KÉSZÍTŐK",
+  "powered_by": "Készítette: ",
+  "built_with": "Készítve: ",
+  "talk_wizard_1": "Üdvözlöm, ifjú lovag!\nMit keres itt?",
+  "talk_player_1": "Üdvözlöm!\nAzért küldtek, hogy megmentsek egy gyermeket, akit az itteni környéken élő szörnyek raboltak el.",
+  "talk_wizard_2": "Humm...\nNem akarom elvenni a kedvét, de ön az ötödik lovag, akit erre a feladatra küldtek. Eddig egy sem tért vissza élve, és a testük a falakon lóg trófeaként.",
+  "talk_player_2": "Ne aggódj, öregem. Hozzám hasonló lovag sosem élt!\nKiirtok minden szörnyet ezen a helyen és megmentem a gyermeket!",
+  "talk_wizard_3": "Igen, az önbizalom nem hiányzik önnek!\nAkkor ne mondja, hogy nem figyelmeztettem!\nSok szerencsét!",
+  "talk_kid_1": "Segítség! Segítség!",
+  "talk_boss_1": "Hallgass el, te ínycsiklandó kis teremtmény!\nEljött az idő, hogy megkóstoljuk a puha bőröd! ha ha ha ha",
+  "talk_player_3": "Ezúttal nem a te undorító teremtményed fog győzni!\nSzörnyetege napjai véget értek!",
+  "talk_boss_2": "Nézzétek! Egy újabb lovag felfújt egóval, azt hiszi, hogy megállíthat engem! ha ha ha ha \nGyere ide!",
+  "talk_kid_2": "Hála az isteneknek!!! \nSikerült legyőznöd ezt a szörnyű teremtményt! Nagyon-nagyon köszönöm! \nMég azt sem tudom, hogyan háláljam meg!",
+  "talk_player_4": "Az volt a megtiszteltetés, hogy segíthettem! És ne aggódj a jutalmam miatt, az apád vagyonnal ígérte meg a megmenekülésed! :-)",
+  "play_again_cap": "ÚJRA JÁTSZÁS",
+  "congratulations": "GRATULÁLUNK!",
+  "thanks": "Köszönjük, hogy játszottál a Shadow Depths-szel!\nReméljük, élvezted a kalandot.\nMaradjatok velünk a következőkért!",
+  "door_without_key": "Úgy gondolom, szükségem van egy kulcsra, hogy átjussak itt!"
+}

@@ -1,0 +1,21 @@
+{
+  "play_cap": "OYNA",
+  "credits_cap": "YAPIMCILAR",
+  "powered_by": "Yapan: ",
+  "built_with": "Yapildi: ",
+  "talk_wizard_1": "Merhaba genç şovalyem!\nBurada ne yapıyorsun?",
+  "talk_player_1": "Merhaba!\nBu mahallelerde yaşayan yaratıklar tarafından kaçırılan bir çocuğu kurtarmak için gönderildim.",
+  "talk_wizard_2": "Hı hı hı...\nSeni motive etmek istemem ama bu görev için gönderilen beşinci şovalye sensin. Şu ana kadar hiçbiri sağ dönmedi ve bedenleri ganimet gibi duvarlara asılı.",
+  "talk_player_2": "Merak etme ihtiyar. Benim gibi bir şovalye hiç olmamıştı!\nBu yerdeki her yatacağı yok edeceğim ve çocuğu kurtaracağım!",
+  "talk_wizard_3": "Evet, özgüven konusunda eksiğin yok!\nO zaman uyarmadım deme!\nİyi şanslar!",
+  "talk_kid_1": "İmdaaaaaat! İmdaaaaaat!",
+  "talk_boss_1": "Kapa çeneni, lezzetli küçük yaratık!\nYumuşak tenini tatma zamanı geldi! ha ha ha ha",
+  "talk_player_3": "Bu sefer iğrenç yaratığın olmayacak!\nCanavarca günlerin sona erdi!",
+  "talk_boss_2": "Bak hele! Beni durdurabileceğini düşünen kibirli bir şovalye daha! ha ha ha ha\nBuraya gel!",
+  "talk_kid_2": "Tanrılara şükürler olsun!!!\nBu korkunç yaratığı yenebildiniz! Çok teşekkür ederim!\nSizi nasıl teşekkür edeceğimi bile bilmiyorum!",
+  "talk_player_4": "Size yardımcı olabilmek bir onurdu! Ve ödül konusunda endişelenmeyin, babanız sizi kurtarmam için bana bir servet vaat etti! :-)",
+  "play_again_cap": "TEKRAR OYNA",
+  "congratulations": "TEBRİKLER!",
+  "thanks": "Shadow Depths oynadığınız için teşekkürler!\nMacerasının keyfini çıkardığınızı umarım.\nGelecek olan için takipte kalın!",
+  "door_without_key": "Buradan geçmek için bir anahtarım olduğunu düşünüyorum!"
+}

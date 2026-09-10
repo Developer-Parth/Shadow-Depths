@@ -1,0 +1,21 @@
+{
+  "play_cap": "JUGAR",
+  "credits_cap": "CRÈDITS",
+  "powered_by": "Fet per ",
+  "built_with": "Fet amb ",
+  "talk_wizard_1": "Hola, jove cavaller!\nQuè fas aquí?",
+  "talk_player_1": "Hola!\nM'han enviat per rescatar un infant que va ser segrestat per criatures que viuen en aquests barris.",
+  "talk_wizard_2": "Humm...\nNo vull desanimar-te, però ets el cinquè cavaller enviat per aquesta tasca. Fins ara, cap no ha tornat viu i els seus cossos pengen de les parets com a trofeus.",
+  "talk_player_2": "No et preocupis, vell. Cavaller com jo no n'hi ha hagut mai!\nExterminaré cada criatura d'aquest lloc i rescataré l'infant!",
+  "talk_wizard_3": "Sí, el que no et falta és confiança!\nLlavors no diguis que no t'he avisat!\nSort!",
+  "talk_kid_1": "Socorro! Socorro!",
+  "talk_boss_1": "Tanca la boca, criatura apetitosa!\nHa arribat el moment de tastar la teva pell suau! ha ha ha ha",
+  "talk_player_3": "Aquesta vegada no serà la teva criatura fastigosa!\nEls teus dies monstruosos han acabat!",
+  "talk_boss_2": "Mira! Un altre cavaller amb l'ego inflat que creu que pot aturar-me! ha ha ha ha\nVine aquí!",
+  "talk_kid_2": "Gràcies als déus!!!\nHas aconseguit derrotar aquesta criatura horrible! Moltes gràcies!\nNo sé ni com agrair-te!",
+  "talk_player_4": "Ha estat un honor poder ajudar-te! I no et preocupis pel premi, el teu pare em va prometre una fortuna per rescatar-te! :-)",
+  "play_again_cap": "TORNAR A JUGAR",
+  "congratulations": "ENHORABONA!",
+  "thanks": "Gràcies per jugar a Shadow Depths!\nEspero que gaudís de l'aventura.\nEstigueu atents al que vindrà!",
+  "door_without_key": "Crec que necessito una clau per passar per aquí!"
+}

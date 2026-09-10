@@ -1,0 +1,21 @@
+{
+  "play_cap": "JUGAR",
+  "credits_cap": "CRÉDITOS",
+  "powered_by": "Hecho por ",
+  "built_with": "Hecho con ",
+  "talk_wizard_1": "¡Hola, mi joven caballero!\n¿Qué haces aquí?",
+  "talk_player_1": "¡Hola!\nFui enviado para rescatar a un niño que fue secuestrado por criaturas que habitan en estas cercanías.",
+  "talk_wizard_2": "Humm...\nNo quiero desanimarte, pero eres el quinto caballero enviado para esta tarea. Hasta ahora, ninguno ha regresado con vida y sus cuerpos cuelgan de las paredes como trofeos.",
+  "talk_player_2": "No te preocupes, viejo. ¡Caballero como yo nunca ha existido!\n¡Exterminaré cada criatura de este lugar y rescataré al niño!",
+  "talk_wizard_3": "Sí, ¡no te falta confianza!\n¡Entonces no digas que no te advertí!\n¡Buena suerte!",
+  "talk_kid_1": "¡¡¡Ayuda! ¡¡¡Ayuda!",
+  "talk_boss_1": "¡Cállate, criaturita apetitosa!\n¡Ha llegado el momento de probar tu suave piel! ja ja ja ja",
+  "talk_player_3": "¡Esta vez no será tu criatura repugnante!\n¡Tus días monstruosos han terminado!",
+  "talk_boss_2": "¡Mira eso! ¡Otro caballero con el ego inflado que cree que puede detenerme! ja ja ja ja\n¡Ven aquí!",
+  "talk_kid_2": "¡¡¡Gracias a los dioses!!!\n¡Lograste derrotar a esta horrible criatura! ¡Muchísimas gracias!\n¡Ni siquiera sé cómo agradecerte!",
+  "talk_player_4": "¡Fue un honor poder ayudarte! Y no te preocupes por recompensarme, ¡tu padre me prometió una fortuna por rescatarte! :-)",
+  "play_again_cap": "JUGAR DE NUEVO",
+  "congratulations": "¡¡FELICIDADES!!",
+  "thanks": "¡Gracias por jugar Shadow Depths!\nEspero que hayas disfrutado la aventura.\n¡Estén atentos para lo que viene!",
+  "door_without_key": "¡Creo que necesito una llave para pasar por aquí!"
+}

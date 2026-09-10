@@ -1,0 +1,21 @@
+{
+  "play_cap": "JOUER",
+  "credits_cap": "CRÉDITS",
+  "powered_by": "Créé par ",
+  "built_with": "Fait avec ",
+  "talk_wizard_1": "Bonjour, jeune chevalier !\nQue fais-tu ici ?",
+  "talk_player_1": "Bonjour !\nJ'ai été envoyé pour sauver un enfant enlevé par des créatures qui vivent dans ces quartiers.",
+  "talk_wizard_2": "Humm...\nJe ne veux pas te décourager, mais tu es le cinquième chevalier envoyé pour cette mission. Jusqu'ici, aucun n'est revenu vivant et leurs corps pendent aux murs comme des trophées.",
+  "talk_player_2": "T'inquiète pas, vieux. Un chevalier comme moi, ça existe pas !\nJ'vais éliminer chaque créature dans c'endroit pis sauver l'enfant !",
+  "talk_wizard_3": "Oui, la confiance te manque pas !\nAlors dis pas que je t'ai pas averti !\nBonne chance !",
+  "talk_kid_1": "Au secours ! Au secours !",
+  "talk_boss_1": "Tais-toi, petite créature bien appétissante !\nLe moment est venu de goûter ta peau tendre ! ha ha ha ha",
+  "talk_player_3": "C'pas ta créature dégoûtante c'te fois !\nT'es jours de monstre sont terminés !",
+  "talk_boss_2": "Regarde ça ! Un autre chevalier avec un méga ego qui pense pouvoir m'arrêter ! ha ha ha ha \nViens icitte !",
+  "talk_kid_2": "Merci aux dieux !!! \nTu as réussi à vaincre cette creature-là ! Merci beaucoup ! \nJ'sais même pas comment te remercier !",
+  "talk_player_4": "C'était un honneur de pouvoir t'aider ! Pis t'inquiète pour la récompense, ton père m'a promis une fortune pour te sauver ! :-)",
+  "play_again_cap": "REJOUER",
+  "congratulations": "FÉLICITATIONS !",
+  "thanks": "Merci d'avoir joué à Shadow Depths !\nJ'espère que tu as passé un bon moment.\nReste à l'écoute pour la suite !",
+  "door_without_key": "Je pense que j'ai besoin d'une clé pour passer ici !"
+}
