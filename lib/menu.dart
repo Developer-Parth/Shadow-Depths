@@ -4,6 +4,7 @@ import 'package:bonfire/bonfire.dart';
 import 'package:shadow_depths/game.dart';
 import 'package:shadow_depths/util/custom_sprite_animation_widget.dart';
 import 'package:shadow_depths/util/enemy_sprite_sheet.dart';
+import 'package:shadow_depths/util/localization/languages.dart';
 import 'package:shadow_depths/util/localization/strings_location.dart';
 import 'package:shadow_depths/util/player_sprite_sheet.dart';
 import 'package:shadow_depths/util/sounds.dart';
@@ -13,14 +14,17 @@ import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class Menu extends StatefulWidget {
-  const Menu({Key? key}) : super(key: key);
+  final Function(Locale)? onLocaleChange;
+
+  const Menu({Key? key, this.onLocaleChange}) : super(key: key);
 
   @override
   _MenuState createState() => _MenuState();
 }
 
 class _MenuState extends State<Menu> {
-  bool showSplash = true;
+  static bool _splashShown = false;
+  bool showSplash = !_splashShown;
   int currentPosition = 0;
   late async.Timer _timer;
   List<Future<SpriteAnimation>> sprites = [
@@ -81,7 +85,7 @@ class _MenuState extends State<Menu> {
                     shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(5.0),
                     ),
-                    minimumSize: Size(100, 40), //////// HERE
+                    minimumSize: Size(100, 40),
                   ),
                   child: Text(
                     getString('play_cap'),
@@ -125,6 +129,10 @@ class _MenuState extends State<Menu> {
                   });
                 },
               ),
+              SizedBox(
+                height: 20,
+              ),
+              _buildLanguageSelector(),
               SizedBox(
                 height: 20,
               ),
@@ -180,10 +188,116 @@ class _MenuState extends State<Menu> {
     );
   }
 
+  Widget _buildLanguageSelector() {
+    Locale currentLocale = Localizations.localeOf(context);
+    String currentCode = currentLocale.countryCode != null
+        ? '${currentLocale.languageCode}-${currentLocale.countryCode}'
+        : currentLocale.languageCode;
+    String currentName = languageNames[currentCode] ??
+        languageNames[currentLocale.languageCode] ??
+        'English';
+
+    return InkWell(
+      onTap: () => _showLanguagePicker(context),
+      child: Container(
+        padding: EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+        decoration: BoxDecoration(
+          border: Border.all(color: Colors.white24),
+          borderRadius: BorderRadius.circular(5.0),
+        ),
+        child: Row(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            Icon(Icons.language, color: Colors.white70, size: 16),
+            SizedBox(width: 8),
+            Text(
+              currentName,
+              style: TextStyle(
+                color: Colors.white70,
+                fontFamily: 'Normal',
+                fontSize: 14.0,
+              ),
+            ),
+            SizedBox(width: 4),
+            Icon(Icons.arrow_drop_down, color: Colors.white70, size: 16),
+          ],
+        ),
+      ),
+    );
+  }
+
+  void _showLanguagePicker(BuildContext context) {
+    Locale currentLocale = Localizations.localeOf(context);
+    showModalBottomSheet(
+      context: context,
+      backgroundColor: Colors.grey[900],
+      shape: RoundedRectangleBorder(
+        borderRadius: BorderRadius.vertical(top: Radius.circular(16)),
+      ),
+      builder: (context) {
+        return Column(
+          children: [
+            Container(
+              margin: EdgeInsets.only(top: 8),
+              width: 40,
+              height: 4,
+              decoration: BoxDecoration(
+                color: Colors.grey[600],
+                borderRadius: BorderRadius.circular(2),
+              ),
+            ),
+            Padding(
+              padding: EdgeInsets.all(16),
+              child: Text(
+                'Select Language',
+                style: TextStyle(
+                  color: Colors.white,
+                  fontFamily: 'Normal',
+                  fontSize: 18.0,
+                ),
+              ),
+            ),
+            Expanded(
+              child: ListView.builder(
+                itemCount: languageOrder.length,
+                itemBuilder: (context, index) {
+                  String code = languageOrder[index];
+                  String name = languageNames[code]!;
+                  Locale locale = codeToLocale(code);
+                  bool isSelected =
+                      currentLocale.languageCode == locale.languageCode &&
+                          currentLocale.countryCode == locale.countryCode;
+                  return ListTile(
+                    title: Text(
+                      name,
+                      style: TextStyle(
+                        color: isSelected ? Colors.blue : Colors.white,
+                        fontFamily: 'Normal',
+                        fontSize: 14.0,
+                      ),
+                    ),
+                    trailing: isSelected
+                        ? Icon(Icons.check, color: Colors.blue, size: 18)
+                        : null,
+                    onTap: () {
+                      widget.onLocaleChange?.call(locale);
+                      Navigator.pop(context);
+                    },
+                  );
+                },
+              ),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
   Widget buildSplash() {
     return FlameSplashScreen(
       theme: FlameSplashTheme.dark,
       onFinish: (BuildContext context) {
+        _splashShown = true;
         setState(() {
           showSplash = false;
         });
