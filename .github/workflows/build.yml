@@ -83,11 +83,20 @@ jobs:
       - name: Build Windows
         run: flutter build windows --release
 
-      - name: Upload Windows
+      - name: Package single .exe
+        run: powershell -ExecutionPolicy Bypass -File scripts/build_single_exe.ps1 -OutputName ShadowDepths.exe
+
+      - name: Upload Windows (folder)
         uses: actions/upload-artifact@v4
         with:
           name: shadow-depths-windows
           path: build/windows/x64/runner/Release/
+
+      - name: Upload Windows (single exe)
+        uses: actions/upload-artifact@v4
+        with:
+          name: shadow-depths-windows-exe
+          path: ShadowDepths.exe
 
   build-linux:
     runs-on: ubuntu-latest
