@@ -73,6 +73,10 @@ jobs:
           flutter-version: '3.27.4'
           channel: stable
 
+      - name: Install Visual Studio 2019 Build Tools
+        run: |
+          choco install visualstudio2019buildtools -y --package-parameters "--quiet --wait --norestart --add Microsoft.VisualStudio.Component.VC.Tools.x86.x64 --add Microsoft.VisualStudio.Component.Windows10SDK.19041"
+
       - name: Get dependencies
         run: flutter pub get
 
