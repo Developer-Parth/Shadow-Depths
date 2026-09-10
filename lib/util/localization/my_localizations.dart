@@ -18,20 +18,75 @@ class MyLocalizations {
 
   Map<String, String> _sentences = {};
 
+  static const Map<String, String> _englishFallback = {
+    'play_cap': 'PLAY',
+    'credits_cap': 'CREDITS',
+    'powered_by': 'Built by ',
+    'built_with': 'Built with ',
+    'talk_wizard_1':
+        'Hello my young knight!\nWhat are you doing here?',
+    'talk_player_1':
+        'Hello!\nI was sent to rescue a child who was kidnapped by creatures that live in those neighborhoods.',
+    'talk_wizard_2':
+        'Humm...\nI don\'t want to demotivate you, but you are the fifth knight sent for this task. So far, none have returned alive and their bodies are hanging from the walls like trophies.',
+    'talk_player_2':
+        'Don\'t worry my old man. Knight like me never existed!\nI will exterminate every creature in this place and rescue the child!',
+    'talk_wizard_3':
+        'Yes, confidence is what you don\'t lack!\nThen don\'t say I didn\'t warn you!\nGood luck!',
+    'talk_kid_1': 'Heeeelp! Heeeelp!',
+    'talk_boss_1':
+        'Shut up, you appetizing little creature!\nThe time has come to taste your soft skin! ha ha ha ha',
+    'talk_player_3':
+        'It won\'t be your disgusting creature this time!\nYour monstrous days are over!',
+    'talk_boss_2':
+        'Look that! Another knight with an inflated ego thinking he can stop me! ha ha ha ha \nCome here!',
+    'talk_kid_2':
+        'Thank the gods !!! \nYou managed to defeat this horrible creature! Thank you very much! \nI don\'t even know how to thank you!',
+    'talk_player_4':
+        'It was an honor to be able to help you! And don\'t worry about rewarding me, your father promised me a fortune to rescue you! :-)',
+    'play_again_cap': 'PLAY AGAIN',
+    'congratulations': 'CONGRATULATIONS!',
+    'thanks':
+        'Thank you for playing Shadow Depths!\nI hope you enjoyed the adventure.\nStay tuned for what comes next!',
+    'door_without_key': 'I think I need a key to get through here!',
+  };
+
   Future<bool> load() async {
-    String data = await rootBundle
-        .loadString('resources/lang/${locale.languageCode}.json');
-    Map<String, dynamic> result = json.decode(data);
+    String langCode = locale.languageCode;
+    String? countryCode = locale.countryCode;
 
-    _sentences = <String, String>{};
-    result.forEach((String key, dynamic value) {
-      _sentences[key] = value.toString();
-    });
+    _sentences = {};
 
+    try {
+      if (countryCode != null && countryCode.isNotEmpty) {
+        try {
+          String data = await rootBundle
+              .loadString('resources/lang/$langCode-$countryCode.json');
+          _parseData(data);
+          return true;
+        } catch (_) {}
+      }
+
+      try {
+        String data =
+            await rootBundle.loadString('resources/lang/$langCode.json');
+        _parseData(data);
+        return true;
+      } catch (_) {}
+    } catch (_) {}
+
+    _sentences = Map<String, String>.from(_englishFallback);
     return true;
   }
 
+  void _parseData(String data) {
+    Map<String, dynamic> result = json.decode(data);
+    result.forEach((String key, dynamic value) {
+      _sentences[key] = value.toString();
+    });
+  }
+
   String trans(String key) {
-    return _sentences[key] ?? '';
+    return _sentences[key] ?? _englishFallback[key] ?? '';
   }
 }
