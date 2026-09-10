@@ -52,6 +52,8 @@ void main() async {
     await Flame.device.setLandscape();
     await Flame.device.fullScreen();
   }
-  await Sounds.initialize();
+  try {
+    await Sounds.initialize();
+  } catch (_) {}
   runApp(ShadowDepthsApp());
 }
