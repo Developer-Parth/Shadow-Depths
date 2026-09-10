@@ -8,11 +8,15 @@ $buildDir = Join-Path $rootDir "build\windows\x64\runner\Release"
 $sedFile = Join-Path $rootDir ".iexpress_config.sed"
 $singleExePath = Join-Path $rootDir $OutputName
 
-Write-Host "=== Building Flutter Windows Release ===" -ForegroundColor Cyan
-Push-Location $rootDir
-flutter build windows --release
-if ($LASTEXITCODE -ne 0) { throw "Flutter build failed" }
-Pop-Location
+if (Test-Path "$buildDir\shadow_depths.exe") {
+    Write-Host "=== Existing build found, skipping Flutter build ===" -ForegroundColor Gray
+} else {
+    Write-Host "=== Building Flutter Windows Release ===" -ForegroundColor Cyan
+    Push-Location $rootDir
+    flutter build windows --release
+    if ($LASTEXITCODE -ne 0) { throw "Flutter build failed" }
+    Pop-Location
+}
 
 if (!(Test-Path "$buildDir\shadow_depths.exe")) {
     throw "Build output not found at $buildDir\shadow_depths.exe"
