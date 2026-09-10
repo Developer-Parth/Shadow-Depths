@@ -63,6 +63,8 @@ jobs:
 
   build-windows:
     runs-on: windows-latest
+    env:
+      CMAKE_GENERATOR: "Visual Studio 17 2022"
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -78,8 +80,6 @@ jobs:
 
       - name: Build Windows
         run: flutter build windows --release
-        env:
-          CMAKE_GENERATOR: "Visual Studio 17 2022"
 
       - name: Upload Windows
         uses: actions/upload-artifact@v4
