@@ -79,3 +79,8 @@ build/
 
 # Large build artifacts
 demo/demo.apk
+shadow-depths-apk/
+shadow-depths-web/
+shadow-depths-windows/
+shadow-depths-linux/
+shadow-depths-ios/
